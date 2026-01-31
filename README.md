@@ -68,23 +68,7 @@
   <div class="container">
     <h1>Dark Stories</h1>
     <p>Broken characters. Silent suffering. No happy endings.</p>
-
-    <!-- LINKS -->
-    <a class="button" href="https://x.com/OsaborBras25370E" target="_blank">
-      ▶ Watch on YouTube
-    </a>
-
-    <a class="button" href="https://SEU-LINK-TELEGRAM" target="_blank">
-      💬 Join Telegram
-    </a>
-
-    <a class="button" href="https://SEU-LINK-AFILIADO" target="_blank">
-      🔥 Recommended
-    </a>
-
-    <div class="footer">
-      All edits are original transformations.
-    </div>
+    https://disgustingcoach.com/bP3xVT0.PB3_p/vGbcmqV/JnZLDj0V2lNQz/YzxFNjjIki0_LYTsYI3nNcjUEm2XOGT-UR
   </div>
 
 </body>
