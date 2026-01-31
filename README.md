@@ -1,4 +1,4 @@
-# Slopdasilva.github.io
+# Hentaipajeet.xyz
 <meta name="053152332e831467797cd5e66583124be3afaa2e" content="053152332e831467797cd5e66583124be3afaa2e" />
 <script type="text/javascript">
     aclib.runAutoTag({
@@ -79,8 +79,6 @@ l.parentNode.insertBefore(s, l);
 <body>
 
   <div class="container">
-    <h1>Dark Stories</h1>
-    <p>Broken characters. Silent suffering. No happy endings.</p>
   </div>
 
 </body>
